@@ -56,10 +56,11 @@ go? He seeks the principle of knowledge _within knowledge_; (thus it is
 itself something that can be known).
 
 The claim that there is a highest principle of knowledge is not a
-positive claim, like that on behalf of an absolute principle of being, but
-a negative, limiting one, amounting merely to this: There is an 
+_positive_ claim, like that on behalf of an absolute principle of being, but
+a _negative, limiting_ one, amounting merely to this: There is an 
 ultimate of some sort, from which all knowledge begins, and beyond which
-there is no knowledge.
+there is no _knowledge_.
+
 Since the transcendental philosopher (_Introd._ §1) invariably
 takes only the subjective as his object, he likewise maintains that it is
 only subjectively, that is, _for us_, that there is a _primary knowledge_ of
@@ -85,5 +86,19 @@ transcendental philosophers; for self-consciousness is not a kind of
 _being_ for us, but a kind of _knowing_, and in fact the highest and most 
 ultimate that there can ever be for us.
 
-
+To proceed further, it needs in fact to be proved, and has already
+been partly proved above (_Introd._ §1), that even when the _objective_ is
+arbitrarily posited as primary, we still never get beyond 
+self-consciousness. We are then either driven back endlessly in our explanations,
+from the grounded to the ground, or we must arbitrarily break the 
+sequence, by positing an absolute that is both cause and effect—both
+subject and object—_of itself_, and since this is initially possible only
+through self-consciousness, by again positing a _self-consciousness_ as
+primary; this occurs in natural science for which being is no more 
+fundamental than it is for transcendental philosophy (see my _Sketch of a
+System of Nature-Philosophy_, p. 5 [_Sämtliche Werke_, ed. K. F. A.
+Schelling (1856-64), 3, 1-268]), and which posits its sole reality in an
+absolute that is both cause and effect of itself—in the absolute identity
+of the subjective and the objective, which we call nature, and which in
+its highest potentiality is again nothing else but self-consciousness.
 

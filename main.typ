@@ -1,8 +1,12 @@
 #import "@preview/hydra:0.6.1": hydra
+#set document(author: ("F.W.J. Schelling", "Peter Heath"), title: "System of Transcendental Idealism", keywords: ("Philosophy", "English", "Schelling"))
+
+// Comptime varibles
+#let isForPrint = true
 
 // Style
-
 #let gfsize = 15pt
+#let normalFont = "EB Garamond"
 
 #set page(paper: "a4", numbering: "1", header: context {
   set text(11pt)
@@ -14,7 +18,7 @@
 })
 
 #set text(
-  font: "EB Garamond",
+  font: normalFont,
   lang: "en",
   region: "us",
   gfsize,
@@ -41,29 +45,34 @@
 
 // Title page
 #context [
-  #set page(footer: { }, numbering: none)
+  
+  #set page(footer: none)
   #align(top + center)[
+    \ \ \
     #image(
       "Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg",
       height: 200pt,
     )
   ]
-  #text(30pt)[
+  #text(27pt)[
     #set align(center)
-    *System of Transcendental Idealism*
-    (1800)
+    #set text(font: "Playfair Display")
+    *_System of Transcendental Idealism_* \
+    #text(font: normalFont)[(1800)]
   ]
   #text(20pt)[
-
+    
     _by F.W.J. Schelling_
 
     Translated by PETER HEATH
 
     University Press of Virginia Charlottesville
     #pagebreak()
-    #text(font: "Iosevka Extended", 15pt)[ #h(1em)Re-edited by Naro-Xeno
-
-    #link("github","https://github.com/naroxeno/STI")
+    #text(font: "Iosevka Extended", 15pt)[
+    #set align(horizon+center) 
+    #h(1em)Re-edited by Naro-Xeno
+    
+    Github repo: #link("github","https://github.com/naroxeno/STI")
 
     Email: naroxeno\@gmail.com
 
@@ -72,15 +81,24 @@
     *Acknowledgement*
 
     Thanks to who OCRed and uploaded the DJVU version of this book.
+
+      #if isForPrint {
+       page[]
+      }
     ]
   ]
 ]
+
+
 
 #context [
   #set page(numbering: "i")
   #show outline.entry.where(level: 1): set block(above: 1.2em)
   #set outline.entry(fill: none)
   #outline(title: [#text(font: "New Computer Modern")[CONTENTS]])
+  #if isForPrint {
+    page([], header: none, footer: none)
+  }
 ]
 
 #pagebreak()
@@ -107,4 +125,4 @@
 #text(gfsize+4pt)[#align(center)[= *PART ONE*]]
 = On the Principle of Transcendental Idealism
 
-#include "part1.typ"
+#include "Part-1.typ"

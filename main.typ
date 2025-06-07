@@ -29,7 +29,7 @@
 #show heading.where(level: 2): it => {
   set align(center)
   set text(gfsize + 2pt)
-  it
+  emph(it)
 }
 
 #show heading.where(level: 1): it => {
@@ -60,8 +60,19 @@
     Translated by PETER HEATH
 
     University Press of Virginia Charlottesville
+    #pagebreak()
+    #text(font: "Iosevka Extended", 15pt)[ #h(1em)Re-edited by Naro-Xeno
 
-    #text(font: "Iosevka Extended", 16pt)[ #h(0.35em)Re-edited by Naro-Xeno]
+    #link("github","https://github.com/naroxeno/STI")
+
+    Email: naroxeno\@gmail.com
+
+    Bilibili: https://space.bilibili.com/532817989
+
+    *Acknowledgement*
+
+    Thanks to who OCRed and uploaded the DJVU version of this book.
+    ]
   ]
 ]
 
@@ -69,14 +80,14 @@
   #set page(numbering: "i")
   #show outline.entry.where(level: 1): set block(above: 1.2em)
   #set outline.entry(fill: none)
-  #outline()
+  #outline(title: [#text(font: "New Computer Modern")[CONTENTS]])
 ]
 
 #pagebreak()
 
 #counter(page).update(1)
 
-= FOREWORD
+= *FOREWORD*
 
 #include "Foreword.typ"
 #pagebreak()
@@ -89,6 +100,11 @@
     align(right, emph(if hydra(1) != none { hydra(1) } else { hydra(2) }))
   }
 })
-= INTRODUCTION
+= *INTRODUCTION*
 
 #include "Introduction.typ"
+#pagebreak()
+#text(gfsize+4pt)[#align(center)[= *PART ONE*]]
+= On the Principle of Transcendental Idealism
+
+#include "part1.typ"

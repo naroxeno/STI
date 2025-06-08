@@ -376,21 +376,21 @@ keystone of its entire arch—_is the philosophy of art_.
 == §4 The Organ of Transcendental Philosophy
 
 \1. The sole immediate object of transcendental concern is the
-subjective (§2); the sole organ of this mode of philosophizing is 
+subjective (§2); the sole organ of this mode of philosophizing is
 therefore inner sense, and its object is such that it cannot even become, as
-can that of mathematics, an object of outer intuition. —The 
-mathematical object is admittedly no more located outside the 
-knowing-process than that of philosophy. The whole existence of mathematics 
-depends upon intuition, and so it also exists only in intuition, but this 
+can that of mathematics, an object of outer intuition. —The
+mathematical object is admittedly no more located outside the
+knowing-process than that of philosophy. The whole existence of mathematics
+depends upon intuition, and so it also exists only in intuition, but this
 intuition itself is an external one. The mathematician, furthermore, is
 never concerned directly with intuition (the act of construction) itself,
-but only with the construct which can certainly be presented 
+but only with the construct which can certainly be presented
 externally, whereas the philosopher looks solely to the _act of construction
 itself_, which is an absolutely internal thing.
 
 \2. Moreover, the objects of the transcendental philosopher exist
 not at all, save insofar as they are freely produced. —One cannot be
-compelled to such production, as one can, say, by the external 
+compelled to such production, as one can, say, by the external
 depiction of a mathematical figure, be compelled to intuit this internally.
 Hence, just as the existence of a mathematical figure depends on outer
 sense, so the entire reality of a philosophical concept depends solely on
@@ -398,8 +398,8 @@ _inner sense_. The whole object of this philosophy is nothing else but the
 action of the intellect according to determinate laws. This action can
 be grasped only through immediate inner intuition on one's own part,
 and this too is possible only through production. But that is not all.
-In philosophizing, one is not simply the object of contemplation, but 
-always at the same time the subject. Two conditions are therefore 
+In philosophizing, one is not simply the object of contemplation, but
+always at the same time the subject. Two conditions are therefore
 required for the understanding of philosophy, _first_ that one be engaged
 in a constant inner activity, a constant producing of these original acts
 of the intellect; and _second_, that one be constantly reflecting upon this
@@ -413,13 +413,13 @@ shall in the sequel, that this coming-to-be-reflected of the absolutely
 non-conscious and nonobjective is possible only through an
 _aesthetic act_ of the imagination. This much, however, is apparent
 from what we have already shown, namely that all philosophy is
-_productive_. Thus philosophy depends as much as art does on the productive capacity, and the difference 
-between them rests merely on the different direction taken by the 
+_productive_. Thus philosophy depends as much as art does on the productive capacity, and the difference
+between them rests merely on the different direction taken by the
 productive force. For whereas in art the production is directed outwards,
-so as to reflect the unknown by means of products, philosophical 
-production is directed immediately inwards, so as to reflect it in 
+so as to reflect the unknown by means of products, philosophical
+production is directed immediately inwards, so as to reflect it in
 intellectual intuition. The proper sense by which this type of philosophy must
-be apprehended is thus the _aesthetic_ sense, and that is why the 
+be apprehended is thus the _aesthetic_ sense, and that is why the
 philosophy of art is the true organon of philosophy (§3).
 
 From ordinary reality there are only two ways out—poetry,
@@ -427,7 +427,7 @@ which transports us into an ideal world, and philosophy, which makes
 the real world vanish before our eyes. —It is not apparent why the gift
 for philosophy should be any more widely spread than that for poetry,
 especially among that class of persons in whom, either through
-memory-work (than which nothing is more immediately fatal to 
+memory-work (than which nothing is more immediately fatal to
 productivity), or through dead speculation, destructive of all imagination,
 the aesthetic organ has been totally lost.
 
@@ -446,17 +446,17 @@ Thus it is no concern of ours to prove the truth of what it takes
 to be true; we merely have to lay bare the inevitability of its delusions.
 —It is agreed that the objective world belongs only to the necessary
 limitations which make self-consciousness (the I am) possible; for the
-common understanding it is sufficient if from this opinion itself the 
+common understanding it is sufficient if from this opinion itself the
 necessity of its own view is again derived.
 
-For this purpose it is necessary, not only that the inner 
-workings of our mental activity be thrown open, the mechanism of 
-necessary presentation unveiled, but also that it be shown by what 
-peculiarity of our nature it is ordained, that what has reality merely in our 
+For this purpose it is necessary, not only that the inner
+workings of our mental activity be thrown open, the mechanism of
+necessary presentation unveiled, but also that it be shown by what
+peculiarity of our nature it is ordained, that what has reality merely in our
 intuition is reflected to us as something present outside us.
 
 Just as natural science brings forth idealism out of realism, in
-that it spiritualizes natural laws into laws of mind, or appends the 
-formal to the material (§1), so transcendental philosophy brings forth 
+that it spiritualizes natural laws into laws of mind, or appends the
+formal to the material (§1), so transcendental philosophy brings forth
 realism out of idealism, _in that it materializes the laws of mind into laws
 of nature_, or annexes the material to the formal.

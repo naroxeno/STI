@@ -124,7 +124,45 @@
   ]
 }
 
+#context {
+  set page(footer: {})
+  set par(first-line-indent: 0em)
+  set text(11pt)
+  align(horizon+center)[
+    THE UNIVERSITY PRESS OF VIRGINIA
+    
+    © 1978 by the Rector and Visitors
 
+of the University of Virginia
+
+All rights reserved
+
+Printed in the United States of America
+
+_Fifth printing 2001_
+
+Library of Congress Cataloging in Publication Data
+
+Schelling, Friedrich Wilhelm Joseph von, 1775-1854.
+
+System of transcendental idealism (1800)
+
+Translation of System des transcendentalen Idealismus.
+
+Includes index.   \
+\1. Idealism. 2. Transcendentalism.
+
+I. Heath, Peter Lauchlan, 1922- 
+
+II. Title.
+B2883.E5H4 14T.3 78-6638
+ISBN 0-8139-0780-2]
+if isForPrint {
+      page(footer: none)[]
+    }
+}
+
+#counter(page).update(1)
 
 #context [
   #set page(numbering: "i")
@@ -157,7 +195,8 @@
 
 #include "Introduction.typ"
 #pagebreak()
-#text(gfsize + 4pt)[#align(center)[= *PART ONE*]]
-= On the Principle of Transcendental Idealism
+#text(gfsize + 4pt)[#align(center)[= *PART ONE\ On the Principle of Transcendental Idealism* ]]
 
 #include "Part-1.typ"
+
+

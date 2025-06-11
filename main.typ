@@ -79,7 +79,7 @@
 
     #set align(horizon + center)
 
-    *Knowledge Open Source Project*
+    *LibreGeist Press Project*
 
     This is the English version of \ _System des transzendentalen Idealismus_ \
     #text(font: "Noto Sans CJK SC")[《先验观念论体系》]
@@ -125,54 +125,54 @@
 }
 
 #context {
-  set page(footer: {})
+  set page(footer: { })
   set par(first-line-indent: 0em)
   set text(11pt)
-  align(horizon+center)[
+  align(horizon + center)[
     THE UNIVERSITY PRESS OF VIRGINIA
-    
+
     © 1978 by the Rector and Visitors
 
-of the University of Virginia
+    of the University of Virginia
 
-All rights reserved
+    All rights reserved
 
-Printed in the United States of America
+    Printed in the United States of America
 
-_Fifth printing 2001_
+    _Fifth printing 2001_
 
-Library of Congress Cataloging in Publication Data
+    Library of Congress Cataloging in Publication Data
 
-Schelling, Friedrich Wilhelm Joseph von, 1775-1854.
+    Schelling, Friedrich Wilhelm Joseph von, 1775-1854.
 
-System of transcendental idealism (1800)
+    System of transcendental idealism (1800)
 
-Translation of System des transcendentalen Idealismus.
+    Translation of System des transcendentalen Idealismus.
 
-Includes index.   \
-\1. Idealism. 2. Transcendentalism.
+    Includes index.   \
+    \1. Idealism. 2. Transcendentalism.
 
-I. Heath, Peter Lauchlan, 1922- 
+    I. Heath, Peter Lauchlan, 1922-
 
-II. Title.
-B2883.E5H4 14T.3 78-6638
-ISBN 0-8139-0780-2]
-if isForPrint {
-      page(footer: none)[]
-    }
+    II. Title.
+    B2883.E5H4 14T.3 78-6638
+    ISBN 0-8139-0780-2]
+  if isForPrint {
+    page(footer: none)[]
+  }
 }
 
 #counter(page).update(1)
 
-#context [
-  #set page(numbering: "i")
-  #show outline.entry.where(level: 1): set block(above: 1.2em)
-  #set outline.entry(fill: none)
-  #outline(title: [#text(font: "New Computer Modern")[CONTENTS]])
-  #if isForPrint {
+#context {
+  set page(numbering: "i")
+  show outline.entry.where(level: 1): set block(above: 1.2em)
+  set outline.entry(fill: none)
+  outline(title: [#text(font: "New Computer Modern")[CONTENTS]])
+  if isForPrint {
     page([], header: none, footer: none)
   }
-]
+}
 
 #pagebreak()
 
@@ -195,7 +195,9 @@ if isForPrint {
 
 #include "Introduction.typ"
 #pagebreak()
-#text(gfsize + 4pt)[#align(center)[= *PART ONE\ On the Principle of Transcendental Idealism* ]]
+#align(center)[
+    = *PART ONE\ On the Principle of Transcendental Idealism*
+]
 
 #include "Part-1.typ"
 
